@@ -9,11 +9,13 @@
 - [Samantha Adams](https://github.com/honeydewdrop) **Did personal project, now first contribution. Yippee!**
 - [Sridevi Shankar](https://github.com/srii5477) **Web and app developer, trying out open source contribution for the first time**
 - [webscriptmaster](https://github.com/webscriptmaster) **web and blockchain developer with a strong work ethic**
+- [Siniade](https://github.com/Siniade) **First open source contribution!**
 - [Mahumitha-b](https://github.com/madhumitha-b)
 - [MaksStuff](https://github.com/MaksStuff) **The first step into a career**
 - [david gordon](https://github.com/dudigoo/) **second step**
 - [crabCatcher0](https://github.com/crabcatcher0/) **Learning**
 - [yuthadda](https://github.com/yuthadda)
+- [Lokesh11868](https://github.com/Lokesh11868) **First Open Source Contribution**
 - [Dev AKS](https://github.com/devaaks) **Hello Open Source!**
 - [kisia0916](https://github.com/kisia0916) "Hello!"
 - [Abhijeet_Mate](https://github.com/Abhijeet314/)**Learning**
@@ -105,6 +107,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Valeria Martynenko](https://github.com/busydayhuh) **Hello guys!**
 -[SevimBusraGul78](https://github.com/SevimBusraGul78)**Hello easy :)
 -[Cryptic4Life](https://github.com/Cryptic4Life) **.-.**
+- [Eddie Almada](https://github.com/EddieAlmada) **Aug 2024**
 -[N3KT4R105](https://github.com/N3KT4R105)**#cumming_is_fun**
 - [AliSinaYOusofi](https://github.com/AliSinaYOusofi/)**My nth contribution**
 - [Crank778](https://github.com/Crank778)**We are here , we are waiting**
@@ -998,6 +1001,7 @@ vrushabhpatil48
 - [Subashree-selvaraj](https://github.com/Subashree-selvaraj)
 - [Bhavishya Pancholi](https://github.com/Royalcaptain-v2)
 - [Joshua Gu](https://github.com/joshuagu789)
+- [Teerth Tejani](https://github.com/TeerthTejani26) **Hisashiburi dana Mugiwara 🐊**
 - [Dhushyanth Manjunath](https://github.com/dhushyanth-h-m)
 - [Parth dey](https://github.com/parthdey)
 [Pranav Dua](https://github.com/pranavdua02)
