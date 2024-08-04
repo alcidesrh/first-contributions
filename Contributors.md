@@ -1,4 +1,5 @@
 # Contributors
+- [Alcides Rodriguez Hernandez](https://github.com/alcidesrh) **Moves Like Jagger**
 - [Thanh Nguyen Duc](https://github.com/ducthanhnguyen95) **First open source contribution!**
 - [Daniela Cubillos](https://github.com/LDanic)
 - [Caleb Anderson](https://github.com/Canderson0115) **Amogus**
